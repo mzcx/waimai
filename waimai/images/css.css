@@ -1,0 +1,54 @@
+* {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+BODY {
+	BACKGROUND-COLOR: #ffffff; MARGIN: 0px auto; COLOR: #000000; FONT-SIZE: 14px
+}
+/**/
+.nav_box { width:960px; height:44px; background:url(nav_bg.jpg); margin:0 auto; position:relative; overflow:visible; margin-top:0px; }
+.nav_box_l { width:32px; height:57px; background:url(nav_left.png) no-repeat; position:absolute; left:-32px; top:0; }
+.nav_box_r { width:31px; height:57px; background:url(nav_right.png) no-repeat; position:absolute; right:-31px; top:0; }
+.nav_box li { float:left; padding:0 15px; font-size:16px; font-weight:bold; line-height:40px; list-style:none;}
+.nav_box li.li_r { float:right; padding:0 10px; font-size:16px; line-height:40px; color:#FFF; font-size:12px }
+.nav_box li a { color:#FFF; text-decoration:none }
+.nav_box li a.font_min { font-weight:400; }
+A:link {
+	COLOR: #006699; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #006699; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #006699; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #000000
+}
+BODY {
+	COLOR: #006699;
+	background-color: #F1F4ED;
+}
+TD,TH {
+	FONT-SIZE:14px; COLOR: #006699;
+}
+.buttoncss {
+    font-family: "Tahoma", "ËÎÌו";
+    font-size: 14px; 
+ 
+    CURSOR: hand;
+    font-style: normal ;
+}
+
+.inputcss {  
+    font-size: 14px; 
+    font-family: "ËÎÌו"; 
+    font-style: normal; 	
+ 
+}
+.inputcssnull {  
+    font-size: 14px; 
+    font-family: "ËÎÌו"; 
+    font-style: normal; 	
+}
+
+.al{color:#fff;font-size:14px;}

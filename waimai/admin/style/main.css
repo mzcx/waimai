@@ -1,0 +1,8 @@
+/* CSS Document */
+* { margin:0 auto; padding:0; border:0;}
+body { background:#FFF; font:12px "ËÎÌו"; color:#075B92;}
+a { text-decoration:none; color:#075B92;}
+
+.table { border:1px solid #5BA8DE; margin-top:5px;}
+.top { background:url(../images/right_table_bg.jpg) repeat-x; height:26px; border-bottom:1px solid #5BA8DE; }
+
